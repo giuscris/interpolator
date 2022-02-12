@@ -2,6 +2,7 @@
     "name": "giuscris/interpolator",
     "description": "🚩 JavaScript-like string interpolation in PHP",
     "type": "library",
+    "license": "GPL-3.0",
     "autoload": {
         "psr-4": {
             "Interpolator\\": "src/"
