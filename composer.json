@@ -1,0 +1,17 @@
+{
+    "name": "giuscris/interpolator",
+    "description": "🚩 JavaScript-like string interpolation in PHP",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Interpolator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Giuseppe Criscione",
+            "email": "18699708+giuscris@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
